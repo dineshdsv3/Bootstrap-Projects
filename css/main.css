@@ -6,4 +6,8 @@
 body {
   font-family: 'Poppins', sans-serif !important;
 }
+
+.height-class {
+  min-height: 100vh;
+}
 /*# sourceMappingURL=main.css.map */
