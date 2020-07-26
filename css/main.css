@@ -1,13 +1,27 @@
 @font-face {
-  font-family: 'Poppins';
+  font-family: "Poppins";
   src: url("../fonts/Poppins/Poppins-Regular.ttf") format("woff2"), url("../fonts/Poppins/Poppins-Regular.ttf") format("woff");
 }
 
 body {
-  font-family: 'Poppins', sans-serif !important;
+  font-family: "Poppins", sans-serif !important;
 }
 
 .height-class {
   min-height: 100vh;
+}
+
+.title-underline {
+  width: 200px;
+  height: 10px;
+  margin: 0 auto;
+}
+
+.height-80 {
+  min-height: 80vh;
+}
+
+.about-picture {
+  background: url("../img/5.webp") center/cover no-repeat fixed;
 }
 /*# sourceMappingURL=main.css.map */
