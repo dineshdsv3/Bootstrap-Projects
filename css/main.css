@@ -24,4 +24,8 @@ body {
 .about-picture {
   background: url("../img/5.webp") center/cover no-repeat fixed;
 }
+
+#filler {
+  background: url("../img/9.jpeg") center/cover no-repeat fixed;
+}
 /*# sourceMappingURL=main.css.map */
